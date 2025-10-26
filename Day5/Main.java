@@ -1,6 +1,5 @@
-//reverse a given string
-package Day5;
 
+package Day5;
 import java.util.Scanner;
 
 public class Main {
