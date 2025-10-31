@@ -1,4 +1,4 @@
-//fnding fibo series of n numbers
+//finding fibo series of n numbers
 package Day4;
 import java.util.Scanner;
 
