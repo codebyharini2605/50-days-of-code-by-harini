@@ -2,7 +2,7 @@ package Day12;
 
 public class Main {
     public static void main(String[] args) {
-        String name="HARINI";
+        String name="Thangamuhh";
         name=name.toLowerCase();
         int count=0;
         for (int i = 0; i < name.length(); i++) {
